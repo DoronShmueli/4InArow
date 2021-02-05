@@ -1,0 +1,27 @@
+﻿<Window x:Class="_4InARowMiniProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_4InARowMiniProject"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStyle="None" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="BtnPlay" Content="Start To Play!" Grid.Column="2" Grid.Row="1" FontSize="30" Background="#FFEEE7A5" Foreground="Black" FontFamily="Arial Black" Click="BtnPlay_Click"/>
+        <Button x:Name="BtnAboutTheCreator" Content="About The Creator" Grid.Row="3" FontSize="20" Background="#FFEEE7A5" FontFamily="Arial Black" Foreground="Black" Click="BtnAboutTheCreator_Click" Grid.Column="2"/>
+    </Grid>
+</Window>

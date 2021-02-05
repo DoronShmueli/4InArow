@@ -1,0 +1,79 @@
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe.config
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csprojAssemblyReference.cache
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\MainWindow.g.cs
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\App.g.cs
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.cache
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.lref
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\MainWindow.baml
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.g.resources
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\_4InARowMiniProject.Properties.Resources.resources
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.GenerateResource.cache
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\Window2.g.cs
+C:\Users\Doron Shmueli\source\repos\4InARowMiniProject\4InARowMiniProject\obj\Debug\Window2.baml
+C:\Users\Gad\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe.config
+C:\Users\Gad\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe
+C:\Users\Gad\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.pdb
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.csprojAssemblyReference.cache
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\MainWindow.g.cs
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\Window2.g.cs
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\App.g.cs
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.cache
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.lref
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\MainWindow.baml
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\Window2.baml
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.g.resources
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\_4InARowMiniProject.Properties.Resources.resources
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.GenerateResource.cache
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.exe
+C:\Users\Gad\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe.config
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\bin\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.csprojAssemblyReference.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\MainWindow.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\Window2.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\App.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.lref
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\MainWindow.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\Window2.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.g.resources
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\_4InARowMiniProject.Properties.Resources.resources
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.GenerateResource.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\RedWin.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\YellowWin.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\RedWin.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\YellowWin.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\AboutME.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\obj\Debug\AboutME.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe.config
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\bin\Debug\4InARowMiniProject.pdb
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csprojAssemblyReference.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\AboutME.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\MainWindow.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\RedWin.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\Window2.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\YellowWin.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\App.g.cs
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject_MarkupCompile.lref
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\AboutME.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\MainWindow.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\RedWin.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\Window2.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\YellowWin.baml
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.g.resources
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\_4InARowMiniProject.Properties.Resources.resources
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.GenerateResource.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.exe
+C:\Users\Doron Shmueli\Desktop\4InARowMiniProject\4InARowMiniProject\obj\Debug\4InARowMiniProject.pdb
